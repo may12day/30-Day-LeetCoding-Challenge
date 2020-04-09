@@ -29,3 +29,13 @@
 | 6 | [**Group Anagrams**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%201%20April%201st%E2%80%93April%207th/6%20Group%20Anagrams) | **O(n)** | **O(n)** | Easy | ```Hash Map``` |
 ||||||||
 | 7 | [**Counting Elements**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%201%20April%201st%E2%80%93April%207th/7%20Counting%20Elements) | **O(n)** | **O(n)** | Easy | ```Array, Hash Map``` |
+
+### WEEK 2
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)             | [Solution]() | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+||||||||
+| 2 | [**Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)             | [Solution]() | **O(m+n)** | **O(m+n)** | Easy | ```Array``` |
+||||||||
