@@ -5,7 +5,7 @@
   
 - [ ] Final Year student pursuing Bachelors
 - [ ] Looking for Job Opportunities :office:
-- [ ] Can be reached out at, :email: : maydev22@gmail.com
+- [ ] Can be reached out at :email: : maydev22@gmail.com
 
 </details>
 
@@ -35,7 +35,7 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-| 1 | [**Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)             | [Solution]() | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+| 1 | [**Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/1%20Middle%20of%20the%20Linked%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
-| 2 | [**Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)             | [Solution]() | **O(m+n)** | **O(m+n)** | Easy | ```Array``` |
+| 2 | [**Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/2%20Backspace%20String%20Compare) | **O(m+n)** | **O(m+n)** | Easy | ```Array``` |
 ||||||||
