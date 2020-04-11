@@ -43,3 +43,5 @@
 ||||||||
 | 3 | [**Min Stack**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/3%20Min%20Stack) | **O(1)** | **O(1)** | Medium | ```Array``` |
 ||||||||
+| 4 | [**Diameter of Binary Tree**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3293/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/4%20Diameter%20of%20Binary%20Tree) | **O(n)** | **O(n)** | Easy | ```Recursion, Binary Tree``` |
+||||||||
