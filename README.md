@@ -47,3 +47,5 @@
 ||||||||
 | 5 | [**Last Stone Weight**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3297/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/5%20Last%20Stone%20Weight) | **O(nlogn)** | **O(n)** | Easy | ```Max Heap``` |
 ||||||||
+| 6 | [**Contiguous Array**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/6%20Contiguous%20Array) | **O(n)** | **O(n)** | Medium | ```Hash Map``` |
+||||||||
