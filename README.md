@@ -49,3 +49,5 @@
 ||||||||
 | 6 | [**Contiguous Array**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3298/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/6%20Contiguous%20Array) | **O(n)** | **O(n)** | Medium | ```Hash Map``` |
 ||||||||
+| 7 | [**Perform String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/7%20Perform%20String%20Shifts) | **O(n)** | **O(n)** | Easy | ```String``` |
+||||||||
