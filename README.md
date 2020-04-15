@@ -51,3 +51,11 @@
 ||||||||
 | 7 | [**Perform String Shifts**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%202%20April%208th%E2%80%93April%2014th/7%20Perform%20String%20Shifts) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+### WEEK 3
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Product of Array Except Self**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/1%20Product%20of%20Array%20Except%20Self) | **O(n)** | **O(1)** | Medium | ```Array``` |
+||||||||
