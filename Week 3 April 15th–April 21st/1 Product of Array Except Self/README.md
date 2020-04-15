@@ -13,5 +13,4 @@ class Solution:
             output[i] = output[i] * p
             p = p * nums[i]
         return output
-
 ```
