@@ -63,3 +63,5 @@
 ||||||||
 | 3 | [**Number of Islands**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/3%20Number%20of%20Islands) | **O(m*n)** | **O(m*n)** | Medium | ```Depth First Search, Recursion``` |
 ||||||||
+| 4 | [**Minimum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/4%20Minimum%20Path%20Sum) | **O(m*n)** | **O(1)** | Medium | ```Dynamic Programming``` |
+||||||||
