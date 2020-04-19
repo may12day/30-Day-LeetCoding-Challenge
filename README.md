@@ -65,5 +65,5 @@
 ||||||||
 | 4 | [**Minimum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/4%20Minimum%20Path%20Sum) | **O(m*n)** | **O(1)** | Medium | ```Dynamic Programming``` |
 ||||||||
-| 4 | [**Search in Rotated Sorted Array**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/5%20Search%20in%20Rotated%20Sorted%20Array) | **O(log n)** | **O(1)** | Medium | ```Binary Search``` |
+| 4 | [**Search in Rotated Sorted Array**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/5%20Search%20in%20Rotated%20Sorted%20Array) | **O(logn)** | **O(1)** | Medium | ```Binary Search``` |
 ||||||||
