@@ -69,3 +69,5 @@
 ||||||||
 | 6 | [**Construct Binary Search Tree from Preorder Traversal**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/6%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | **O(n)** | **O(n)** | Medium | ```Stack, Binary Search Tree, Recursion``` |
 ||||||||
+| 7 | [**Leftmost Column with at Least a One**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/7%20Leftmost%20Column%20with%20at%20Least%20a%20One) | **O(m+n)** | **O(1)** | Medium | ```Array``` |
+||||||||
