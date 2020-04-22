@@ -71,3 +71,11 @@
 ||||||||
 | 7 | [**Leftmost Column with at Least a One**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%203%20April%2015th%E2%80%93April%2021st/7%20Leftmost%20Column%20with%20at%20Least%20a%20One) | **O(m+n)** | **O(1)** | Medium | ```Array``` |
 ||||||||
+
+### WEEK 4
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Subarray Sum Equals K**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/1%20Subarray%20Sum%20Equals%20K) | **O(n)** | **O(n)** | Medium | ```Array, Hash Map``` |
+||||||||
