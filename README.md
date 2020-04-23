@@ -79,3 +79,5 @@
 ||||||||
 | 1 | [**Subarray Sum Equals K**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/1%20Subarray%20Sum%20Equals%20K) | **O(n)** | **O(n)** | Medium | ```Array, Hash Map``` |
 ||||||||
+| 2 | [**Bitwise AND of Numbers Range**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/2%20Bitwise%20AND%20of%20Numbers%20Range) | **O(logn)** | **O(1)** | Medium | ```Bitwise AND``` |
+||||||||
