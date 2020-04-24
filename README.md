@@ -81,3 +81,5 @@
 ||||||||
 | 2 | [**Bitwise AND of Numbers Range**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/2%20Bitwise%20AND%20of%20Numbers%20Range) | **O(logn)** | **O(1)** | Medium | ```Bitwise AND``` |
 ||||||||
+| 3 | [**LRU Cache**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/3%20LRU%20Cache) | **O(1)** | **O(n)** | Medium | ```Ordered Dict, Hash Map, Doubly Linked List``` |
+||||||||
