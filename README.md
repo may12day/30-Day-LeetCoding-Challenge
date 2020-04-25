@@ -83,3 +83,5 @@
 ||||||||
 | 3 | [**LRU Cache**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/3%20LRU%20Cache) | **O(1)** | **O(n)** | Medium | ```Ordered Dict, Hash Map, Doubly Linked List``` |
 ||||||||
+| 4 | [**Jump Game**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3310/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/4%20Jump%20Game) | **O(n)** | **O(1)** | Medium | ```Array, Greedy``` |
+||||||||
