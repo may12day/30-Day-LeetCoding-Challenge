@@ -87,3 +87,5 @@
 ||||||||
 | 5 | [**Longest Common Subsequence**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3311/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/5%20Longest%20Common%20Subsequence) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
 ||||||||
+| 6 | [**Maximal Square**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/6%20Maximal%20Square) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
+||||||||
