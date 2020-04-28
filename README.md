@@ -81,11 +81,13 @@
 ||||||||
 | 2 | [**Bitwise AND of Numbers Range**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/2%20Bitwise%20AND%20of%20Numbers%20Range) | **O(logn)** | **O(1)** | Medium | ```Bitwise AND``` |
 ||||||||
-| 3 | [**LRU Cache**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/3%20LRU%20Cache) | **O(1)** | **O(n)** | Medium | ```Ordered Dict, Hash Map, Doubly Linked List``` |
+| 3 | [**LRU Cache**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3309/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/3%20LRU%20Cache) | **O(1)** | **O(n)** | Medium | ```Ordered Dict, Hash Map, Doubly Linked List``` |
 ||||||||
-| 4 | [**Jump Game**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3310/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/4%20Jump%20Game) | **O(n)** | **O(1)** | Medium | ```Array, Greedy``` |
+| 4 | [**Jump Game**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3310/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/4%20Jump%20Game) | **O(n)** | **O(1)** | Medium | ```Array, Greedy``` |
 ||||||||
 | 5 | [**Longest Common Subsequence**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3311/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/5%20Longest%20Common%20Subsequence) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
 ||||||||
-| 6 | [**Maximal Square**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)             | [Solution](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/6%20Maximal%20Square) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
+| 6 | [**Maximal Square**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/6%20Maximal%20Square) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
+||||||||
+| 7 | [**First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/7%20First%20Unique%20Number) | **O(1)** | **O(n)** | Medium | ```Orderect Dict, Hash Map. Doubly Linked List``` |
 ||||||||
