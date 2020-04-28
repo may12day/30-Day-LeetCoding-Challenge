@@ -89,5 +89,5 @@
 ||||||||
 | 6 | [**Maximal Square**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/6%20Maximal%20Square) | **O(m*n)** | **O(m*n)** | Medium | ```Dynamic Programming``` |
 ||||||||
-| 7 | [**First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/7%20First%20Unique%20Number) | **O(1)** | **O(n)** | Medium | ```Orderect Dict, Hash Map. Doubly Linked List``` |
+| 7 | [**First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/7%20First%20Unique%20Number) | **O(1)** | **O(n)** | Medium | ```Orderect Dict, Hash Map, Doubly Linked List``` |
 ||||||||
