@@ -91,3 +91,11 @@
 ||||||||
 | 7 | [**First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%204%20April%2022nd%E2%80%93April%2028th/7%20First%20Unique%20Number) | **O(1)** | **O(n)** | Medium | ```Orderect Dict, Hash Map, Doubly Linked List``` |
 ||||||||
+
+### WEEK 5
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Binary Tree Maximum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3314/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%205%20April%2029th%E2%80%93April%2030th/1%20Binary%20Tree%20Maximum%20Path%20Sum) | **O(n)** | **O(n)** | Hard | ```Binary Tree, Recursion, Depth First Search``` |
+||||||||
