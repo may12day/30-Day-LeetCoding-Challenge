@@ -28,7 +28,7 @@ class Solution:
         dfs(root)
         return totalsum
 
-# Method 2
+# Method 2(BFS)
 
 # class Solution:
 #     def maxPathSum(self, root: TreeNode) -> int:

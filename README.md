@@ -11,7 +11,7 @@
 
 > **My LeetCode profile** : [Link](https://leetcode.com/maydev22/)
 
-## Solution to 30-Day LeetCoding Challenge Problems in ```Python```
+## Solution to 30-Day April LeetCoding Challenge Problems in ```Python```
 
 ### WEEK 1
 
@@ -97,5 +97,7 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-| 1 | [**Binary Tree Maximum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3314/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%205%20April%2029th%E2%80%93April%2030th/1%20Binary%20Tree%20Maximum%20Path%20Sum) | **O(n)** | **O(n)** | Hard | ```Binary Tree, Recursion, Depth First Search``` |
+| 1 | [**Binary Tree Maximum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3314/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%205%20April%2029th%E2%80%93April%2030th/1%20Binary%20Tree%20Maximum%20Path%20Sum) | **O(n)** | **O(h)** | Hard | ```Binary Tree, Recursion, Depth First Search, Breadth First Search``` |
+||||||||
+| 2 | [**Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)             | [Solution :star:](https://github.com/may12day/30-Day-LeetCoding-Challenge/tree/master/Week%205%20April%2029th%E2%80%93April%2030th/2%20Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary%20Tree) | **O(n)** | **O(h)** | Hard | ```Binary Tree, Recursion, Depth First Search, Breadth First Search``` |
 ||||||||
